@@ -1,2 +1,2 @@
 # Final-Year-Project-2023
-The project aims to develop a web platform for organizing cybersecurity competitions.
+The project aims to develop a web platform for organizing cybersecurity competitions. The competition involves two teams battling against each other. Each competition includes a set of specifications describing the tasks the server must perform. A competition consists of two phases: the installation and configuration phase, where teams set up services according to the provided specifications, and the second phase, which involves attacking the opponent's server.
